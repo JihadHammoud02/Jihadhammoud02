@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jihad Hammoud</h1>
-<h3 align="center">A passionate Full Stack developer from Lebanon</h3>
+<h3 align="center">A passionate Developer Student from Lebanon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihadhammoud02&label=Profile%20views&color=0e75b6&style=flat" alt="jihadhammoud02" /> </p>
 
