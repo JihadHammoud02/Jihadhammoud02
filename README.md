@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻4th year Software Engineering Student @ Grenoble INP ENSIMAG <br>⌛️ Experienced in Web Development <br>🔭 Interested in Cloud and Blockchain Dev<br>🧗🏻‍♂️ Looking for an internship opportunity to develop my skills<br> 
+🧑🏻‍💻Graduate Software Engineering Student @ Grenoble INP ENSIMAG <br>⌛️ Experienced in AI and LLMs <br>🔭 Interested in AI<br>
 
 
 ## 🌐 Socials:
